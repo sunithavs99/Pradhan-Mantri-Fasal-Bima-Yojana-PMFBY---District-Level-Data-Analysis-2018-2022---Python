@@ -1,0 +1,2 @@
+# Pradhan-Mantri-Fasal-Bima-Yojana-PMFBY---District-Level-Data-Analysis-2018-2022---Python
+This repository contains a Python-based data analytics main project on PMFBY (Pradhan Mantri Fasal Bima Yojana). The project covers data preprocessing, exploratory data analysis (EDA), statistical summaries, visualizations, and insight generation to study farmer coverage, demographic patterns, and scheme performance across states and years.
